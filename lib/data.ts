@@ -1,0 +1,123 @@
+const data = {
+  products: [
+    {
+      name: "OnePlus Nord",
+      slug: "oneplus-nord",
+      category: "Smart Phone",
+      image: "/images/oneplus1.jpg",
+      price: 19999,
+      brand: "OnePlus",
+      rating: 4.5,
+      numReviews: 8,
+      countInStock: 32,
+      description:
+        "Model name: Pad Go with 11.35 inch Screen & 8 GB RAM & 128 GB ROM",
+    },
+    {
+      name: "Samsung Galaxy M55 5G",
+      slug: "samsung-galaxy",
+      category: "Smart Phone",
+      image: "/images/samsung2.jpg",
+      brand: "Samsung",
+      price: 24999,
+      rating: 3.2,
+      numReviews: 5,
+      countInStock: 22,
+      description: "8GB RAM, 128GB ROM 50MP Triple Cam",
+    },
+    {
+      name: "iPhone 15",
+      slug: "iPhone-15",
+      category: "iPhone",
+      image: "/images/iPhone3.jpg",
+      brand: "Apple",
+      price: 71999,
+      rating: 4.6,
+      numReviews: 7,
+      countInStock: 32,
+      description:
+        "iPhone 15 brings you Dynamic Island, a 48MP Main Camera, and USB-C-all in a durable color-infused glass and aluminium design",
+    },
+    {
+      name: "iPhone 13",
+      slug: "iPhone-13",
+      category: "iPhone",
+      image: "/images/iPhone4.jpg",
+      brand: "Apple",
+      price: 53099,
+      rating: 4.4,
+      numReviews: 8,
+      countInStock: 37,
+      description:
+        "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+    },
+    {
+      name: "iPhone 14",
+      slug: "iPhone-14",
+      category: "iPhone",
+      image: "/images/iPhone5.jpg",
+      brand: "Apple",
+      price: 88899,
+      rating: 4.5,
+      numReviews: 12,
+      countInStock: 32,
+      description:
+        "15.40 cm (6.1-inch) Super Retina XDR display having advanced camera system for better photos in any light",
+    },
+    {
+      name: "Nokia 150 DS",
+      slug: "nokia-150",
+      category: "Keypad",
+      image: "/images/nokia6.jpg",
+      brand: "Nokia",
+      price: 2599,
+      rating: 4.2,
+      numReviews: 12,
+      countInStock: 28,
+      description:
+        "Nokia 150 Dual SIM Premium Keypad Phone | Rear Camera, Long Lasting Battery Life, Wireless FM Radio & MP3 Player and All-New Modern Premium Design",
+    },
+    {
+      name: "Jio Phone",
+      slug: "jio-phone",
+      category: "Keypad",
+      image: "/images/jiophone7.jpg",
+      brand: "Generic",
+      price: 2299,
+      rating: 3.7,
+      numReviews: 10,
+      countInStock: 19,
+      description:
+        "Refused JioPhone 4G Keypad Phone, Premium Design, YouTube, Whatsapp, JioTV, JioCinema, JioSaavn, Video Calling, LED Torch, Digital Camera",
+    },
+
+    {
+      name: "Oneme-FM2-4G VoLTE",
+      slug: "oneme-FM2",
+      category: "Keypad",
+      image: "/images/oneme8.jpg",
+      brand: "SHIVANSH",
+      price: 1999,
+      rating: 3.8,
+      numReviews: 9,
+      countInStock: 32,
+      description:
+        "SHIVANSH Oneme-FM2 4G Volte keypad Phone with Dual SIM, Big Display (Colour May varry)",
+    },
+
+    {
+      name: "Oppo F25 Pro",
+      slug: "oppo-f25",
+      category: "Smart Phone",
+      image: "/images/oppo9.jpg",
+      brand: "OPPO",
+      price: 23999,
+      rating: 4.4,
+      numReviews: 22,
+      countInStock: 35,
+      description: "Oppo F25 Pro 5G (Lava Red, 8GB RAM, 128GB Storage)",
+    },
+  ],
+};
+
+export default data;
